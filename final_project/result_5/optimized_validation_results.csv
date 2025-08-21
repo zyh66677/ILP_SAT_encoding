@@ -1,0 +1,11 @@
+instance,nodes,edges,computed_treedepth,expected_treedepth,is_correct,timeout,solve_time,validation_time,validation_passed,ancestor_relations_built,edges_checked,violations_found,ancestor_check_time,edges_per_second
+Bull,5,5,3,3,True,False,0,0.0,True,6,5,0,0.0,0
+Butterfly,5,6,3,3,True,False,0,0.0,True,6,6,0,0.0,0
+Chvatal,12,24,8,8,True,False,0,0.0,True,55,24,0,0.0,0
+Diamond,4,5,3,3,True,False,0,0.0,True,5,5,0,0.0,0
+Durer,12,18,7,7,True,False,0,0.0,True,44,18,0,0.0,0
+Franklin,12,18,7,7,True,False,0,0.0,True,50,18,0,0.0,0
+Frucht,12,18,6,6,True,False,0,0.0,True,41,18,0,0.0,0
+Goldner,11,27,5,5,True,False,0,0.0,True,33,27,0,0.0,0
+Grotzsch,11,20,7,7,True,False,0,0.0,True,40,20,0,0.0,0
+Herschel,11,18,5,5,True,False,0,0.0,True,33,18,0,0.0,0

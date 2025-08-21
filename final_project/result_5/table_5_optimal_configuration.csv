@@ -1,0 +1,7 @@
+Configuration_Item,Setting_Value,Description
+Solver Configuration,presolve_only,仅Gurobi预处理 - 来自实验4.4结果
+Encoding Variant,v5_enhanced_constraints,Enhanced constraints encoding
+Preprocessing,Disabled,Graph preprocessing switch
+MIPStart,Disabled,Initial solution generation
+Lazy Constraints,Disabled,Lazy constraint callbacks
+Gurobi Presolve,2,Solver internal presolve level

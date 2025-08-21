@@ -1,0 +1,13 @@
+Statistical_Metric,Value,Unit,Notes
+Total Test Instances,30,instances,All validation instances
+Testable Instances,30,instances,Instances with golden standard
+Basic Correctness Passed,25,instances,Numerically accurate instances
+Structural Correctness Passed,25,instances,Structurally valid instances
+Basic Correctness Rate,83.3%,percentage,Numerical accuracy rate
+Structural Correctness Rate,83.3%,percentage,Structural validation pass rate
+Edge Cases Success Rate,100.0%,percentage,Special graph types handling
+Expected Accuracy Rate,74.3%,percentage,From experiment 4.4 results
+Performance Improvement,+9.0%,percentage,Relative to expected value
+Average Solve Time,nan,seconds,Successful instances average
+Average Variables,397,variables,ILP model average variables
+Average Constraints,3306,constraints,ILP model average constraints

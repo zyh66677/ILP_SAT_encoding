@@ -1,0 +1,5 @@
+Test_Case,Graph_Type,Expected_Treedepth,Computed_Treedepth,Is_Timeout,Validation_Result,Error_Message
+single_node,Single Node,1,1,No,Pass,None
+two_nodes,Two Nodes,2,2,No,Pass,None
+path_10,Path 10,4,4,No,Pass,None
+cycle_10,Cycle 10,5,5,No,Pass,None

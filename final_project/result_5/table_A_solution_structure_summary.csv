@@ -1,0 +1,6 @@
+Instance,Nodes,Edges,Computed_Treedepth,Expected_Treedepth,Root_Nodes_Count,Root_Nodes,Max_Depth,Solve_Time_s,Variables,Constraints
+Bull,5,5,3,3,1,3,3,0.0000,61,195
+Butterfly,5,6,3,3,1,0,3,0.0000,61,196
+Chvatal,12,24,8,8,1,0,8,0.0000,313,2034
+Diamond,4,5,3,3,1,2,3,0.0000,41,115
+Petersen,10,15,6,6,1,9,6,0.0000,221,1220

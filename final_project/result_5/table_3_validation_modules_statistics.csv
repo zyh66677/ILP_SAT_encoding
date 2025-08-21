@@ -1,0 +1,6 @@
+Validation_Module,Description,Test_Instances,Passed_Instances,Pass_Rate_Percent,Failure_Reasons
+Basic Correctness,Numerical comparison with golden standard,30,25,83.3,Value mismatch/Timeout
+Tree Structure,"Connectivity, acyclicity, parent-child relations",30,30,100.0,None
+Depth Constraints,"Root depth=1, parent-child depth increment",30,30,100.0,None
+Ancestor Relations,"Edge ancestor property, transitivity",30,30,100.0,None
+Consistency,"Node set consistency, relationship integrity",30,30,100.0,None
